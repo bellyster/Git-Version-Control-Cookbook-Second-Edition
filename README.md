@@ -1,15 +1,18 @@
-Example Git repository
-======================
+#Contenido
+
+##Estoy en la rama BugFix
+
+# Example Git repository
 
 This repository shall explain the Git data model
 
-Master
-------
+## Master
 
 The master branch is the default branch, feature/2 also exists.
 
-Hello World
------------
+## Hello World
+
 Implemented languages:
- * python
- * perl
+
+- python
+- perl
